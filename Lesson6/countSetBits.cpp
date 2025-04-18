@@ -5,6 +5,7 @@ int main(){
     cin>>n;
     int temp = n;
     int count = 0;
+
     // while(temp){
     //     if(temp&1) {count++;}
     //     temp >>=1;
