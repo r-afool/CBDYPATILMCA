@@ -14,4 +14,5 @@ int main(){
         maxOnRight[i] = maxSoFar;
         maxSoFar = max(maxSoFar, arr[i]);
     }
+    
 }
